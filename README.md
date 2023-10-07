@@ -13,3 +13,5 @@ This is a project in which we extract faces from videos and identify them
 
 # Website for collecting images of victims from families
 @Gderu
+
+# Geolocating victims from videos/images
